@@ -1,3 +1,2 @@
 # slots
-slots
 hola
